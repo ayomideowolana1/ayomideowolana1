@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayomide Owolana
-- 👀 I’m interested in Web & Mobile Development
-- 🌱 I’m currently studying CP at Aptech Computer Education 
-- 💞️ I’m looking to collaborate on Web and Mobile projects with React and Node
+- 👀 I’m interested in Web Development (React) 
+- 🌱 I’m currently studying CP at Aptech Computer Education and working as a front-end dev at Marasoft Pay
+- 💞️ I’m looking to collaborate on Web Projects only. My strengths are ability to deliver pixel perfect UI's from prototype and problem solving.
 - 📫 How to reach me 
 - Twitter: @ayomideowolana1
 - LinkedIn: https://www.linkedin.com/in/owolana-ayomide-266091206/
